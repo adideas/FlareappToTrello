@@ -1,5 +1,9 @@
 # FlareappToTrello
 
+```
+Chrome Extensions (Расширение хром)
+```
+
 ##### Flareapp - To - Trello
 
 ### Tech
